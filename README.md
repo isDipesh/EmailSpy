@@ -25,4 +25,4 @@ Built-in support for Google Chrome and Opera
 [http://userscripts.org/scripts/source/85358.user.js](http://userscripts.org/scripts/source/85358.user.js "http://userscripts.org/scripts/source/85358.user.js")
 
 @userscripts : [http://userscripts.org/scripts/show/85358](http://userscripts.org/scripts/show/85358 "EmailSpy at Userscripts.org")  
-Homepage : [http://motorscript.com/emailspy/ "Userscript: EmailSpy")
+Homepage : [http://motorscript.com/emailspy/](http://motorscript.com/emailspy/ "Userscript: EmailSpy")
